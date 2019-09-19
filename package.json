@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "httpster": "^1.0.3",
-    "standard": "^11.0.0"
+    "httpster": "1.0.3",
+    "standard": "11.0.0"
   },
   "dependencies": {
     "phaser-ce": "^2.10.1",
