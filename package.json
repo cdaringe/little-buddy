@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "phaser-ce": "^2.10.1",
-    "typescript": "^2.7.2"
+    "typescript": "^3.0.0"
   }
 }
