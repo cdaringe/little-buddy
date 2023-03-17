@@ -758,9 +758,10 @@ http-errors@~1.6.2:
     setprototypeof "1.0.3"
     statuses ">= 1.3.1 < 2"
 
-httpster@1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/httpster/-/httpster-1.0.4.tgz#76debb5ba91cd6203ecf1403b1fb29cc6921bd99"
+httpster@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/httpster/-/httpster-1.1.0.tgz#7db671e81180a1b253b430d0d2d123820b7f6e0e"
+  integrity sha512-clvsY6m8L+LIfbwGG9I2FQBdmcWemFUWfnAr6a3tFJ+vJhmzlFkCCZHxCW16YmHLHauXwTsEyPgccsmnf0yCMQ==
   dependencies:
     basic-auth "^2.0.0"
     commander "2.17.x"
