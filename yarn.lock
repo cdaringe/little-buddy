@@ -1200,8 +1200,9 @@ path-type@^2.0.0:
     pify "^2.0.0"
 
 phaser-ce@^2.10.1:
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/phaser-ce/-/phaser-ce-2.10.1.tgz#504962d509dee2c9c595398fbe3f5dbcbb173a50"
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/phaser-ce/-/phaser-ce-2.20.0.tgz#f7fc3c98444bd54c949f063fa9bcabc352399c00"
+  integrity sha512-IhWEyIJOdpp6fdwaxdnOLpqIwdrXEFXbsW3D2roSDJIfSVwFIzEllssxTVRJfiVjXUXTkAhF1EHByVo32WTWpw==
 
 pify@^2.0.0:
   version "2.3.0"
